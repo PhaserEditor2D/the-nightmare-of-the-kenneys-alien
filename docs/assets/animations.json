@@ -1,0 +1,308 @@
+{
+    "anims": [
+        {
+            "key": "alienPink_jump",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spritesheet_players",
+                    "frame": "alienPink_jump.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 6,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "alienPink_stand",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spritesheet_players",
+                    "frame": "alienPink_stand.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 6,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "alienPink_walk",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spritesheet_players",
+                    "frame": "alienPink_walk1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spritesheet_players",
+                    "frame": "alienPink_walk2.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 6,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "alienPink_hit",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spritesheet_players",
+                    "frame": "alienPink_hit.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 1,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "bee",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spritesheet_enemies",
+                    "frame": "bee.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spritesheet_enemies",
+                    "frame": "bee_move.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "frog",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spritesheet_enemies",
+                    "frame": "frog.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 1,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "frog_move",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spritesheet_enemies",
+                    "frame": "frog_move.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "alienFrog",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spritesheet_players",
+                    "frame": "alienFrog.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 1,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "alienFrog_move",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spritesheet_players",
+                    "frame": "alienFrog_move.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 1,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "fly",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spritesheet_enemies",
+                    "frame": "fly.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spritesheet_enemies",
+                    "frame": "fly_dead.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "ladybug_fly",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spritesheet_enemies",
+                    "frame": "ladybug_fly.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spritesheet_enemies",
+                    "frame": "ladybug_move.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "alienLadybug",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spritesheet_players",
+                    "frame": "alienLadybug.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spritesheet_players",
+                    "frame": "alienLadybug_move.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "barnacle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spritesheet_enemies",
+                    "frame": "barnacle.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spritesheet_enemies",
+                    "frame": "barnacle_attack.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 5,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "alienPinkBoss_walk",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spritesheet_players",
+                    "frame": "alienPinkBoss_walk1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spritesheet_players",
+                    "frame": "alienPinkBoss_walk2.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 6,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "alienPinkBoss_front",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spritesheet_players",
+                    "frame": "alienPinkBoss_front.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 1,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "alienPink_ship",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spritesheet_players",
+                    "frame": "alienPink_ship.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 1,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}
